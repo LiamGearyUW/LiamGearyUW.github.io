@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>A web page recreation of wiki.md</title>
+
+        <link rel="stylesheet" href="css/main.css">
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+    </head>
+
+    <body>
+        <div class="topnav" id="myTopnav">
+            <a class="active" href="index.html">The Main Page</a>
+            <a href="section1.html">A page filled with text</a>
+            <a href="section2.html">A page filled with links</a>
+            <!-- Hamburger menu -->
+            <a href="javascript:void(0);" class="icon">
+                <i class="fa fa-bars"></i>
+            </a>
+        </div>
+        
+        <p><strike>I'm not sure why the hamburger icon isn't working. It won't work on the original files, either.</strike></p>
+        <p>After some (basic) testing, I've realized that the script tag has to go in the body, because that's where the javascript calls are.</p>
+        <img class="content" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Markdown-mark.svg/1200px-Markdown-mark.svg.png">
+        <script src="js/main.js"></script>
+    </body>
+</html>
