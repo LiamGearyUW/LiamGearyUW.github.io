@@ -33,3 +33,9 @@ Bachelor of the Arts, Majoring in Geography: Data Science. Graduating spring of 
 - Understand how to display information onto digital maps
 - Software utilizes some JavaScript
 - Understand how to outline plots of land using a list of coordinates
+### Markdown
+- I can create [a hyperlink](https://en.wikipedia.org/wiki/Hyperlink).
+- I can create [another hyperlink](https://en.wikipedia.org/wiki/Lyre)
+> I can do block quotes
+- I can post images (see below)
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Markdown-mark.svg/1200px-Markdown-mark.svg.png)
